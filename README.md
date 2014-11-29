@@ -6,3 +6,4 @@ Screencasts
 * [Social Share plugin for the Restaurant Distribution](https://www.youtube.com/watch?v=PPVtrvsfbS8&list=UUEJ_OCn_WTIcT3VENk6BcOA)
 * [How to change the reservation date format](https://www.youtube.com/watch?v=oyFaxr3jX4k&list=UUEJ_OCn_WTIcT3VENk6BcOA)
 * [How to add filters to Blog page](https://www.youtube.com/watch?v=xMZ-UegDno0)
+* [How to add a reservation button](https://www.youtube.com/watch?v=XUBYEjn2rdw&index=15&list=PLnUK7R6ij0dfMtjEvEbB6r2fPwN-1plzj)
